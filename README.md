@@ -73,7 +73,7 @@ Building responsive web experiences and practical backend solutions.
 
 **7i Tech Solutions — KPHB Colony, Hyderabad**
 
-*January 2025 – September 2025*
+*January 2026 – October 2026*
 
 - Hands-on training in PHP, Laravel and modern frontend frameworks.
 - Worked with MVC architecture, RESTful API development and MySQL database management.
